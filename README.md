@@ -43,9 +43,5 @@ In case, if you find any books, cheat sheets, or charts missing and if you would
 
 - To create interactive EDA using animation with a combination of data visualization charts to give an idea about how to tackle data and extract the insights from the data 
 
-### Suggestion and queries:
 
-Feel free to use the discussion platform of this data set to ask questions or any queries related to the data visualization corpus
-and data visualization techniques
 
-### Kindly upvote the dataset if you find it useful or if you wish to appreciate the effort taken to gather this corpus! Thank you and have a great day!
