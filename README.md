@@ -37,11 +37,6 @@ In case, if you find any books, cheat sheets, or charts missing and if you would
 - R codes for charts:[Plotly for R](https://plotly.com/r/)
 - d3 codes: [Visualization codes using d3](https://www.d3-graph-gallery.com/)
 
-### Request to kaggle users:
-
-- A kind request to kaggle users to create notebooks on different visualization charts as per their interest by choosing a dataset of their own as many beginners and other experts could find it useful!
-
-- To create interactive EDA using animation with a combination of data visualization charts to give an idea about how to tackle data and extract the insights from the data 
 
 
 
